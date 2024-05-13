@@ -1,0 +1,5 @@
+swiftfullThinking = https://www.youtube.com/watch?v=XdZUVmqIkJE&list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB&index=9
+
+sean allen = https://www.youtube.com/watch?v=CwA1VWP0Ldw
+
+freecodecamp = https://www.youtube.com/watch?v=8Xg7E9shq0U
